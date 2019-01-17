@@ -5,7 +5,7 @@
 CSV=accounts.csv
 TECLOS=teclos
 cheekymsg='add cheeky msg here'
-sender='telosdacnode'
+sender='sender'
 amount=0.001
 rm send.sh
 while IFS=, read -r col1
